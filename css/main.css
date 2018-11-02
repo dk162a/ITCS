@@ -111,7 +111,7 @@ nav {
     background-image: linear-gradient(to right, #fb6340, #fbb140);
     padding-top: 40px;
     padding-bottom: 60px;
-    clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
+    clip-path: polygon(0 0, 1920px 0, 1920px 87%, 0 100%);
 }
 #section-orange .card {
     margin-bottom: 25px;
