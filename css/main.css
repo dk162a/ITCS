@@ -12,7 +12,7 @@ nav {
 #section-hero {
     background-image: linear-gradient(97deg, #7795f8, #5e72e4 61%, #555abf 99%);
     padding-bottom: 175px;
-    clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
+    clip-path: polygon(0 0, 1900px 0, 1900px 87%, 0 100%);
 }
 #section-hero img {
     transform: rotateZ(5deg);
@@ -172,7 +172,7 @@ nav {
     background-image: linear-gradient(to right, #172b4d, #1a174d);
     padding-top: 60px;
     padding-bottom: 340px;
-    clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
+    clip-path: polygon(0 0, 1900px 0, 1900px 87%, 0 100%);
 }
 #section-services .service-icon {
     color: #5e72e4;
@@ -223,7 +223,7 @@ footer .footer-menu a {
 #section-profile-top {
     background-image: linear-gradient(to bottom, #fad961, #f76b1c);
     min-height: 500px;
-    clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
+    clip-path: polygon(0 0, 1900px 0, 1900px 87%, 0 100%);
 }
 #section-profile-card {
     margin-bottom: 40px;
